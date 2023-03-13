@@ -1,0 +1,6 @@
+[submodule "animalhouse"]
+	path = animalhouse
+	url = https://gitlab.com/expuss2000/animalhouse
+[submodule "ah-game"]
+	path = ah-game
+	url = https://gitlab.com/GaiaClerici01/ah-game
